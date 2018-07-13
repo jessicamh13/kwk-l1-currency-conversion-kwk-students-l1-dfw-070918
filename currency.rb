@@ -7,3 +7,5 @@ end
 def eur_to_usd(dollar)
   dollar/1.2
 end
+
+def
