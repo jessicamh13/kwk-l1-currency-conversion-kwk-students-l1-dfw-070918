@@ -17,11 +17,11 @@ def jpy_to_usd(dollar)
 end
 
 def usd_to_gbp(pound)
-  pound
+  pound * 1.32
 end
 
 def gbp_to_usd(dollar)
-  dollar
+  dollar/1.32
 end
 
 def usd_to_aud(ausdol)
